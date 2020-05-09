@@ -22,7 +22,7 @@ for i in range(1, sheet.max_row+1):  #To get rows
             print(sheet.cell(row=i, column=j).value)
 
 
-# Excel utility
+# Excel utility-
 for i in range(1, sheet.max_row+1):  #To get rows
     if sheet.cell(row=i, column=1).value == "Testcase2":
         for j in range(2, sheet.max_column+1):  # To get columns
