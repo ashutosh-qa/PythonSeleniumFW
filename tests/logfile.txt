@@ -1,0 +1,33 @@
+2020-05-05 13:56:12,987 :INFO :test_e2e :getting all the cards title
+2020-05-05 13:56:13,301 :INFO :test_e2e :Entering country Name
+2020-05-05 13:56:18,830 :INFO :test_e2e :Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-05 16:59:46,714 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-05 16:59:47,842 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 16:59:47,842 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:05:58,987 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-05 17:05:59,972 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:05:59,972 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:06:11,865 :INFO :test_e2e :getting all the cards title
+2020-05-05 17:06:14,719 :INFO :test_e2e :Entering country Name
+2020-05-05 17:06:20,127 :INFO :test_e2e :Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-05 17:24:59,291 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-05 17:25:00,314 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:25:00,314 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:28:17,698 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-05 17:28:18,798 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:28:18,798 :INFO :test_formSubmittion :First name isAnkita
+2020-05-05 17:28:31,545 :INFO :test_e2e :getting all the cards title
+2020-05-05 17:28:33,064 :INFO :test_e2e :Entering country Name
+2020-05-05 17:28:38,555 :INFO :test_e2e :Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-06 12:03:21,126 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-06 12:03:21,933 :INFO :test_formSubmittion :First name isAnkita
+2020-05-06 12:03:21,933 :INFO :test_formSubmittion :First name isAnkita
+2020-05-06 12:03:39,674 :INFO :test_e2e :getting all the cards title
+2020-05-06 12:03:39,860 :INFO :test_e2e :Entering country Name
+2020-05-06 12:03:45,394 :INFO :test_e2e :Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-08 15:14:58,544 :INFO :test_formSubmittion :First name isAshutosh
+2020-05-08 15:20:04,244 :INFO :test_formSubmittion :First name isAshutosh
